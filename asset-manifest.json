@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/KittyGallery/static/css/main.6911d0db.chunk.css",
-    "main.js": "/KittyGallery/static/js/main.4042bc2e.chunk.js",
-    "main.js.map": "/KittyGallery/static/js/main.4042bc2e.chunk.js.map",
-    "runtime-main.js": "/KittyGallery/static/js/runtime-main.f32403c9.js",
-    "runtime-main.js.map": "/KittyGallery/static/js/runtime-main.f32403c9.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/KittyGallery/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.780851c0.chunk.js": "/KittyGallery/static/js/2.780851c0.chunk.js",
-    "static/js/2.780851c0.chunk.js.map": "/KittyGallery/static/js/2.780851c0.chunk.js.map",
-    "index.html": "/KittyGallery/index.html",
-    "precache-manifest.acc4b01f412e0393affff4d56c936ba3.js": "/KittyGallery/precache-manifest.acc4b01f412e0393affff4d56c936ba3.js",
-    "service-worker.js": "/KittyGallery/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/KittyGallery/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.6911d0db.chunk.css.map": "/KittyGallery/static/css/main.6911d0db.chunk.css.map",
-    "static/js/2.780851c0.chunk.js.LICENSE.txt": "/KittyGallery/static/js/2.780851c0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/KittyGallery/static/media/Adventure Time Logo.f0d91b08.woff"
+    "main.css": "/kittyGallery/static/css/main.881874e3.chunk.css",
+    "main.js": "/kittyGallery/static/js/main.094935e3.chunk.js",
+    "main.js.map": "/kittyGallery/static/js/main.094935e3.chunk.js.map",
+    "runtime-main.js": "/kittyGallery/static/js/runtime-main.c8972c98.js",
+    "runtime-main.js.map": "/kittyGallery/static/js/runtime-main.c8972c98.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/kittyGallery/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.780851c0.chunk.js": "/kittyGallery/static/js/2.780851c0.chunk.js",
+    "static/js/2.780851c0.chunk.js.map": "/kittyGallery/static/js/2.780851c0.chunk.js.map",
+    "index.html": "/kittyGallery/index.html",
+    "precache-manifest.0b5a0d9697781af9fba1b3ba439b3de9.js": "/kittyGallery/precache-manifest.0b5a0d9697781af9fba1b3ba439b3de9.js",
+    "service-worker.js": "/kittyGallery/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/kittyGallery/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.881874e3.chunk.css.map": "/kittyGallery/static/css/main.881874e3.chunk.css.map",
+    "static/js/2.780851c0.chunk.js.LICENSE.txt": "/kittyGallery/static/js/2.780851c0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/kittyGallery/static/media/Adventure Time Logo.f0d91b08.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.f32403c9.js",
+    "static/js/runtime-main.c8972c98.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.780851c0.chunk.js",
-    "static/css/main.6911d0db.chunk.css",
-    "static/js/main.4042bc2e.chunk.js"
+    "static/css/main.881874e3.chunk.css",
+    "static/js/main.094935e3.chunk.js"
   ]
 }
