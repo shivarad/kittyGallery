@@ -1,0 +1,11 @@
+
+.myDim:hover,
+.myDim:focus {
+  opacity: 1;
+  transition: opacity .15s ease-in;
+}
+
+.grow:hover,
+.grow:focus {
+  transform: scale(1.3);
+}
