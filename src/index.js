@@ -1,13 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import {Provider} from 'react-redux';
+import {createStore,applyMiddleware,combineReducers} from 'redux';
+import {createLogger} from 'redux-logger';
+import thunkMiddleware from 'redux-thunk';
 import './index.css';
 import App from './containers/App';
 import * as serviceWorker from './serviceWorker';
+import {searchKittens,requestKittens} from './reducers';
+
+const logger=createLogger(); //npm install redux-logger
+const rootReducer=combineReducers(searchKittens,requestKittens);
+const store=createStore(rootReducer,applyMiddleware(thunkMiddleware,logger));
 
 ReactDOM.render(
-  <React.StrictMode>
+  <Provider store={store}>
     <App />
-  </React.StrictMode>,
+  </Provider>,
   document.getElementById('root')
 );
 
